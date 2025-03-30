@@ -30,7 +30,7 @@ public class LinkedList {
     public void adicionar(String novoValor) {
 
     }
-    public void remover(String novoValor;) {
+    public void remover(String novoValor) {
 
     }
 
