@@ -13,7 +13,7 @@ public class Main {
         vetorzao[8] = 45;
         vetorzao[9] = 599;
 
-        System.out.println("Printing Arrayayay (: ");
+        System.out.println("Printing Arrayaya (; ");
 
         for(int i = 0; i < vetorzao.length; i++) {
             System.out.println(vetorzao[i]);
