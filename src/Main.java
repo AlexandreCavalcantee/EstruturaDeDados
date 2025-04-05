@@ -10,7 +10,7 @@ public class Main {
         vetorzao[5] = 3434;
         vetorzao[6] = 4;
         vetorzao[7] = 4230;
-        vetorzao[8] = 465;
+        vetorzao[8] = 45;
         vetorzao[9] = 599;
 
         System.out.println("Printing Arrayaya (; ");
