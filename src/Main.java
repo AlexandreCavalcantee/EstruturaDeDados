@@ -6,7 +6,7 @@ public class Main {
         vetorzao[1] = 2;
         vetorzao[2] = 15;
         vetorzao[3] = 222;
-        vetorzao[4] = 2;
+        vetorzao[4] = 2322;
         vetorzao[5] = 34;
         vetorzao[6] = 4432;
         vetorzao[7] = 40;
