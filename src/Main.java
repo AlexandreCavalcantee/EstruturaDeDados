@@ -3,7 +3,7 @@ public class Main {
     public static void main(String[] args) {
         int[] vetorzao = new int[10];
         vetorzao[0] = 11;
-        vetorzao[1] = 230;
+        vetorzao[1] = 2;
         vetorzao[2] = 15;
         vetorzao[3] = 222;
         vetorzao[4] = 2;
