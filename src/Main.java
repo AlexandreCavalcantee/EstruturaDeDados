@@ -4,7 +4,7 @@ public class Main {
         int[] vetorzao = new int[10];
         vetorzao[0] = 11;
         vetorzao[1] = 23245;
-        vetorzao[2] = 15;
+        vetorzao[2] = 12445;
         vetorzao[3] = 222;
         vetorzao[4] = 2322;
         vetorzao[5] = 341212;
