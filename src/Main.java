@@ -2,7 +2,7 @@
 public class Main {
     public static void main(String[] args) {
         int[] vetorzao = new int[10];
-        vetorzao[0] = 11;
+        vetorzao[0] = 1112121121212;
         vetorzao[1] = 23245;
         vetorzao[2] = 12445;
         vetorzao[3] = 22232;
