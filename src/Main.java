@@ -13,7 +13,7 @@ public class Main {
         vetorzao[8] = 432121225;
         vetorzao[9] = 9211829;
 
-        System.out.println("Printing Arrayaya (; ");
+        System.out.println("Printing Arrayayawqwq (; ");
 
         for(int i = 0; i < vetorzao.length; i++) {
             System.out.println(vetorzao[i]);
